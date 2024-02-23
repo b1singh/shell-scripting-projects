@@ -4,7 +4,9 @@
 
 x=1+2
 
-echo "x value is ="+x
+echo x
 
-
+echo "divison"
+x=2-1
+echo x
 
